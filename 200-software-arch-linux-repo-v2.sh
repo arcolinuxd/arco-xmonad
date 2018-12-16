@@ -80,7 +80,7 @@ sudo pacman -S --noconfirm --needed vlc
 echo "Installing category Office"
 
 sudo pacman -S --noconfirm --needed evince
-sudo pacman -S --noconfirm --needed evolution
+#sudo pacman -S --noconfirm --needed evolution
 #sudo pacman -S --noconfirm --needed geary
 #sudo pacman -S --noconfirm --needed libreoffice-fresh
 #sudo pacman -S --noconfirm --needed
