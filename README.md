@@ -1,4 +1,8 @@
-# ArcoLinuxD Xmonad Desktop
+# ArcoLinuxD Xmonad WM
+
+All credits to Nick Petrov for making this configuration.
+
+
 
 # Start by installing the latest ArcoLinuxD installation
 
