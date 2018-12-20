@@ -104,6 +104,8 @@ echo
 
 rm ~/.config/compton.conf
 rm -rf ~/.config/volumeicon
+rm ~/.config/autostart/plank.desktop
+rm ~/.config/autostart/xfce4-clipman-plugin-autostart.desktop
 
 echo "################################################################"
 echo "removing all folders and files unnecessary for this desktop from .local"
