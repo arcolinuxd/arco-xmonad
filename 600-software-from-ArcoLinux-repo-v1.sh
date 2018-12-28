@@ -71,7 +71,6 @@ sudo pacman -S arcolinux-wallpapers-git --noconfirm --needed
 sudo pacman -S arcolinux-xfce-thunar-git --noconfirm --needed
 sudo pacman -S arcolinux-xmonad-git --noconfirm --needed
 
-
 echo "################################################################"
 echo "####     Software from ArcoLinux Repository installed       ####"
 echo "################################################################"
