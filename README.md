@@ -1,4 +1,4 @@
-# ArcoLinuxD Xmonad WM
+# ArcoLinuxD Xmonad
 
 All credits to Nick Petrov for making this configuration.
 
