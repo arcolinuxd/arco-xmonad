@@ -26,7 +26,7 @@ sudo pacman -S --noconfirm --needed lightdm
 sudo pacman -S --noconfirm --needed arcolinux-lightdm-gtk-greeter arcolinux-lightdm-gtk-greeter-settings
 sudo pacman -S --noconfirm --needed arcolinux-wallpapers-git
 #installing desktop environment
-sudo pacman -S xmonad xmobar xmonad-contrib xmonad-utils --noconfirm --needed
+sudo pacman -S xmonad xmobar xmonad-contrib haskell-dbus xmonad-utils --noconfirm --needed
 #enabling displaymanager or login manager
 sudo systemctl enable lightdm.service -f
 sudo systemctl set-default graphical.target
