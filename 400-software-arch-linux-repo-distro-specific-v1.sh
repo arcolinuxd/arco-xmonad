@@ -48,6 +48,7 @@ sudo pacman -S compton  --noconfirm --needed
 sudo pacman -S dmenu  --noconfirm --needed
 sudo pacman -S feh --noconfirm --needed
 sudo pacman -S gmrun --noconfirm --needed
+sudo pacman -S gsimplecal --noconfirm --needed
 sudo pacman -S gtop --noconfirm --needed
 sudo pacman -S imagemagick --noconfirm --needed
 sudo pacman -S lxappearance-gtk3 --noconfirm --needed
