@@ -21,8 +21,6 @@ sh AUR-DS/install-checkupdates-aur-v*.sh
 
 sh AUR-DS/install-perl-checkupdates-aur-v*.sh
 
-sh AUR-DS/install-xmonad-log-v*.sh
-
 sh AUR-DS/install-python-pywal-v*.sh
 
 sh AUR-DS/install-polybar-v*.sh
