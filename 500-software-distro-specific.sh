@@ -78,7 +78,6 @@ xfce4-screenshooter
 xfce4-settings
 xfce4-taskmanager
 xfce4-terminal
-w3m
 hardcode-fixer-git
 )
 
