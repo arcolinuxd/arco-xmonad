@@ -64,6 +64,7 @@ arcolinux-config-xmonad-git
 arcolinux-xmonad-dconf-git
 arcolinux-polybar-git
 polybar
+awesome-terminal-fonts
 )
 
 count=0
