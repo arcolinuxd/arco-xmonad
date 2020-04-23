@@ -64,13 +64,13 @@ xmonad-utils
 xmonad-log
 checkupdates-aur
 perl-checkupdates-aur
-arcolinux-xmonad-polybar-git
-arcolinux-config-xmonad-git
-arcolinux-xmonad-dconf-git
 arcolinux-polybar-git
 polybar
 awesome-terminal-fonts
 dmenu
+arcolinux-xmonad-polybar-git
+arcolinux-config-xmonad-git
+arcolinux-xmonad-dconf-git
 )
 
 count=0
