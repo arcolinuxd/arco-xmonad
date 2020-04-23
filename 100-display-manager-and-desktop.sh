@@ -65,8 +65,8 @@ xmonad-utils
 xmonad-log
 checkupdates-aur
 perl-checkupdates-aur
-arcolinux-polybar-git
 polybar
+arcolinux-polybar-git
 awesome-terminal-fonts
 dmenu
 arcolinux-xmonad-polybar-git
