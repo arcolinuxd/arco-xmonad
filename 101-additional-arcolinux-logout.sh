@@ -68,7 +68,7 @@ done
 func_category Arcolinux-General
 
 list=(
-arcolinux-oblogout-git
+arcolinux-oblogout
 arcolinux-oblogout-themes-git
 arcolinux-slim
 arcolinux-slim-themes-git
