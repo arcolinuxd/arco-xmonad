@@ -59,9 +59,10 @@ xmonad-utils
 xmonad-log
 checkupdates-aur
 perl-checkupdates-aur
-arcolinux-xmonad-git
+arcolinux-xmonad-polybar-git
+arcolinux-xmonad-xmo-git
 arcolinux-config-xmonad-git
-arcolinux-dconf-xmonad-git
+arcolinux-xmonad-dconf-git
 arcolinux-polybar-git
 polybar
 )
