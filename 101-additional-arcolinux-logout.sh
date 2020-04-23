@@ -71,7 +71,7 @@ list=(
 arcolinux-oblogout
 arcolinux-oblogout-themes-git
 arcolinux-slim
-arcolinux-slim-themes-git
+arcolinux-slimlock-themes-git
 )
 
 count=0
