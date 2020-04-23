@@ -55,9 +55,6 @@ func_category() {
 func_category Additional-distro-specific
 
 list=(
-dmenu
-menulibre
-mugshot
 python-pywal
 urxvt-resize-font-git
 w3m
