@@ -63,6 +63,7 @@ xmonad-contrib
 haskell-dbus
 xmonad-utils
 xmonad-log
+feh
 checkupdates-aur
 perl-checkupdates-aur
 polybar
