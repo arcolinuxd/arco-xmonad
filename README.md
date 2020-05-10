@@ -1,10 +1,6 @@
-# ArcoLinuxD Xmonad
+# ArcoLinuxD Xmonad desktop
 
-All credits to Nick Petrov for making this configuration.
-
-
-
-# Start by installing the latest ArcoLinuxD installation
+# Start by installing the latest ArcoLinuxD iso
 
 Download at https://arcolinux.info and burn to usb
 
