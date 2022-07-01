@@ -69,7 +69,7 @@ arcolinux-polybar-git
 awesome-terminal-fonts
 dmenu
 arcolinux-xmonad-polybar-git
-arcolinux-config-xmonad-git
+arcolinux-config-all-desktops-git
 arcolinux-xmonad-dconf-git
 arcolinux-logout-git
 )
