@@ -71,7 +71,7 @@ dmenu
 arcolinux-xmonad-polybar-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
-arcolinux-logout-git
+archlinux-logout-git
 )
 
 count=0
